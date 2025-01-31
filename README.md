@@ -1,5 +1,7 @@
 # Crash Mind Over Mutant Texture Pack
 This is a texture pack created for the PlayStation 2 version of the game. Most of these textures were taken from the Xbox 360 version of the game. Others were upscaled or modified.
+
+Big thanks to Null for helping me with the Xbox 360 textures: https://www.youtube.com/@NullSoftware
 ## Compatibility
 It's compatible with all the regions of the game:
 -   NTSC-U (SLUS-21728)
